@@ -3,8 +3,10 @@ import java.util.Arrays;
 public class AlgoString {
 	
 	public static void main(String[] args) {
-		AlgoString algoCountNumber = new AlgoString();
-		System.out.println(algoCountNumber.count(1,1));
+		AlgoString AlgoString = new AlgoString();
+		System.out.println(AlgoString.count(1,1));
+		
+		System.out.println(AlgoString.checkAnagram("LISTION", "NOTILSI"));
 		
 	}
 	
