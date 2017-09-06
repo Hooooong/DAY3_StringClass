@@ -1,9 +1,9 @@
 import java.util.Arrays;
 
-public class AlgoCountNumber {
+public class AlgoString {
 	
 	public static void main(String[] args) {
-		AlgoCountNumber algoCountNumber = new AlgoCountNumber();
+		AlgoString algoCountNumber = new AlgoString();
 		System.out.println(algoCountNumber.count(1,1));
 		
 	}
