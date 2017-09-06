@@ -13,6 +13,7 @@ ____________________________________________________
 
   - String Class
 
+    [_java.lang.String_](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html)<br>
     JAVA에서 중요한 기본 API 중 하나이다. 문자열을 사용할 때  String Class 를 사용한다.
 
     - String class 생성자
@@ -50,7 +51,7 @@ ____________________________________________________
           // new 로 생성할 시 Constant Pool에 새로이 생성되므로 주소값이 다르다.
           ```
 
-    - [String class 의 주요 메소드]()
+    - [String class 의 주요 메소드](https://github.com/Hooooong/DAY3_StringClass/blob/master/src/StringApi.java)
 
         - charAt() : 문자 추출
 
@@ -218,6 +219,8 @@ ____________________________________________________
           ```
 
   - StringBuffer VS StringBuilder
+
+    [_java.lang.StringBuffer_](https://docs.oracle.com/javase/7/docs/api/java/lang/StringBuffer.html) , [_java.lang.StringBuilder_](https://docs.oracle.com/javase/7/docs/api/java/lang/StringBuilder.html)
 
     - String 인 경우 연산을 할 경우에 Constant Pool 에 새로 생성이 된다.
 
