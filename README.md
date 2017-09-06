@@ -1,6 +1,14 @@
 JAVA Programing
 ----------------------------------------------------
 #### 3일차 (String Class)
+
+###### 예제
+____________________________________________________
+
+  - [숫자 카운팅](https://github.com/Hooooong/DAY3_StringClass/blob/master/src/AlgoString.java)
+  - [아나그램 알고리즘](https://github.com/Hooooong/DAY3_StringClass/blob/master/src/AlgoString.java)
+
+###### 공부내용
 ____________________________________________________
 
   - String Class
@@ -259,9 +267,3 @@ ____________________________________________________
        System.out.println(builder.toString());
        // 출력 : 안녕하세요! 반갑습니다.
       ```
-
-#### 예제
-____________________________________________________
-
-  - [숫자 카운팅]()
-  - [아나그램 알고리즘]()
