@@ -6,10 +6,6 @@ public class AlgoCountNumber {
 		AlgoCountNumber algoCountNumber = new AlgoCountNumber();
 		System.out.println(algoCountNumber.count(1,1));
 		
-		String str1 = "문자열";
-		String str3 = new String("문자열");
-		str3.intern();
-		System.out.println(str1 == str3);
 	}
 	
 	/**
