@@ -241,7 +241,7 @@ ____________________________________________________
        */
       ```
 
-    - 이러한 구조로 인해 String 연산 시메모리 낭비가 심하므로 문자열을 붙이는 연산은 StringBuffer와 StringBuilder를 사용하는 것이 좋다.
+    - 이러한 구조로 인해 String 연산 시 메모리 낭비가 심하므로 문자열을 붙이는 연산은 StringBuffer와 StringBuilder를 사용하는 것이 좋다.
 
     - StringBuffer 와 StringBuilder 사용법
 
